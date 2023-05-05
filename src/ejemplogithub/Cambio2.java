@@ -11,7 +11,8 @@ package ejemplogithub;
 public class Cambio2 {
     
     public static void  main(String []args){
-        System.out.println("Otro cambio");
+        int n= 42;
+        System.out.println("Otro cambio" + n);
     }
     
 }

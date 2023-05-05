@@ -2,6 +2,8 @@ package ejemplogithub;
 
 public class Ejemplo2 {
 
-    String nombre;
+    String nombre="Eduard hizo este cambio";
+  
+  
 
 }

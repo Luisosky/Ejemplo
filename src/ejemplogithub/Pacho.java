@@ -16,9 +16,12 @@ public class Pacho {
         this.polas = polas;
     }
     
-    public void tomarPolas(int polas)
+    public static void tomarPolas(int polas)
     {
         System.out.println("Tinti se toma " + polas + " diarias");
     }
     
+    public static void main(String []args){
+        tomarPolas(2);
+    }
 }
